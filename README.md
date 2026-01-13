@@ -9,4 +9,4 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/Ileenfdz?tab=repositories)
 
-- 📫 How to reach me [Gmail](**ileen@gmail.com**) / [LinkedIn](https://www.linkedin.com/in/ileen-garc%C3%ADa-sampedro-fern%C3%A1ndez/)
+- 📫 How to reach me [Gmail](mailto:ileenfdz@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ileen-garc%C3%ADa-sampedro-fern%C3%A1ndez/)
